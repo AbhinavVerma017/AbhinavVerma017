@@ -105,15 +105,3 @@ const abhinav = {
 
 ---
 
-### GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhinavVerma017&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
-</div>
-
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E50914&height=100&section=footer" />
-</div>
