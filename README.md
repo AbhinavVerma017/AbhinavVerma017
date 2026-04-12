@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E50914&height=200&section=header&text=Abhinav%20Verma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Node.js%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript&descAlignY=58&descSize=18&animation=fadeIn" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=E50914&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Abhinav+Verma+%F0%9F%91%8B;Full-Stack+Engineer+%7C+2%2B+Years+Experience;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Angular" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -42,19 +40,68 @@ const abhinav = {
 
 ---
 
-### Projects
+### Featured Projects
 
-<div align="center">
-
-| | Project | Description | Stack | Links |
-|---|---|---|---|---|
-| 🎬 | **Netflix Clone** | Full-featured streaming platform — auth, trailer playback, My List, search, 20+ genre rows | React · Redux · Firebase · TMDB | [GitHub](https://github.com/AbhinavVerma017/netflix_clone) · [Live](https://netflix-clone-project-f04b1.web.app) |
-| 🔗 | **URL Shortener** | Production-grade shortener with Redis caching — ~90% DB read reduction, 10k+ req/day load tested | Node.js · Express · MongoDB · Redis | [GitHub](https://github.com/AbhinavVerma017/Url-Shortner) · [Live](https://url-shortner-r87k.onrender.com) |
-| 🎙️ | **Voice Email System** | Accessible email client for visually impaired users — voice-to-text & text-to-speech | JavaScript · Web Speech API | [GitHub](https://github.com/AbhinavVerma017/Voice-Based-Email-System) |
-| 🗞️ | **News Blog App** | CRUD news platform with RESTful API backend | PHP · CodeIgniter 3 | [GitHub](https://github.com/AbhinavVerma017/News_Blog-Application) |
-| 💼 | **Developer Portfolio** | Customizable multi-theme React portfolio | React · JavaScript | [GitHub](https://github.com/AbhinavVerma017/Portfolio-Website) |
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 Netflix Clone</h3>
+      <p>Full-featured streaming platform with auth, trailer playback, My List, search, and 20+ lazy-loaded genre rows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white" />
+      </p>
+      <a href="https://github.com/AbhinavVerma017/netflix_clone">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+      <a href="https://netflix-clone-project-f04b1.web.app">
+        <img src="https://img.shields.io/badge/Live_Demo-E50914?style=flat-square&logo=netflix&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔗 URL Shortener</h3>
+      <p>Production-grade shortener with Redis caching — ~90% DB read reduction, validated at 10k+ requests/day under load testing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      </p>
+      <a href="https://github.com/AbhinavVerma017/Url-Shortner">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+      <a href="https://url-shortner-r87k.onrender.com">
+        <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=render&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎙️ Voice-Based Email System</h3>
+      <p>Accessible email client built for visually impaired users — compose and read emails entirely using voice-to-text and text-to-speech.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Web_Speech_API-4285F4?style=flat-square&logo=google&logoColor=white" />
+      </p>
+      <a href="https://github.com/AbhinavVerma017/Voice-Based-Email-System">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗞️ News Blog App</h3>
+      <p>CRUD-based news platform with a RESTful API backend — create, read, update, and delete articles via CodeIgniter 3.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />
+      </p>
+      <a href="https://github.com/AbhinavVerma017/News_Blog-Application">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -64,14 +111,6 @@ const abhinav = {
   <img src="https://github-profile-trophy.vercel.app/?username=AbhinavVerma017&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
 </div>
 
-
----
-
-### Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavVerma017&bg_color=0d1117&color=e50914&line=e50914&point=ffffff&area=true&hide_border=true" />
-</div>
 
 ---
 
