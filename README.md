@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" width="100%" alt="Abhinav Verma — Backend Engineer" />
+<img src="./header.svg" width="100%" alt="Abhinav Verma — Backend Engineer" />
 
 <div align="center">
 
@@ -109,4 +109,4 @@ Streaming UI with login, trailers, My List, search and 20+ genre rows.
 </tr>
 </table>
 
-<img src="./assets/footer.svg" width="100%" />
+<img src="./footer.svg" width="100%" />
